@@ -1,0 +1,62 @@
+Name: Harsh Hiteshkumar Bhavsar
+Net ID: hhb140330
+===========================================================
+
+To Run the project:
+
+-> Run the testScript.sh file.
+-> give the any number as you want. 1-5 or 0.
+-> It will print output of all average values.
+
+===========================================================
+I have used different libraries for all the models. I have commented all the data and its use as per the file, as below.
+
+
+#Installing the libraries
+#For Random Forest
+install.packages("randomForest")
+#For Neural net
+install.packages("nnet")
+#For bagging
+install.packages("ipred")
+#For Boosting
+install.packages("ada")
+or
+install.packages("adabag")
+
+
+#Loading the libraries
+#For Decision Tree
+library("rpart")
+library("e1071")
+library("class")
+library("ada")
+library("adabag")
+library("ipred")
+#For Logistic Regression
+library("stats")
+library("randomForest")
+library("nnet")
+
+
+===========================================================
+
+I have attached seperate Excel files Dataset 1 Report.xlsx, Dataset 2 Report.xlsx, Dataset 3 Report.xlsx, Dataset 4 Report.xlsx, Dataset 5 Report.xlsx files which contains average values for all the dataset with 10 samples, as per the given format of Assignmet 4.
+===========================================================
+
+NOTE:
+
+I have used some of the parametes with its use in the code file of R. You can get an idea that what each of the code line does.
+
+===========================================================
+
+*THANK YOU*
+
+
+
+
+
+
+
+
+
